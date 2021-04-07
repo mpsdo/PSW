@@ -1,0 +1,43 @@
+div {
+  text-align: center;
+}
+a {
+  width: 40%;
+  align-items: center;
+}
+.fixed {
+  position: fixed;
+  left: 0;
+  width: 100%;
+  border: solid 1px;
+  border-color: red;
+  border-radius: 10px;
+  background-color: lightcoral;
+}
+.btn_ligar {
+  font-size: large;
+  font-weight: bold;
+}
+.cadastro {
+  margin: 5px;
+  padding: 5px;
+  border: solid 1px;
+}
+label {
+  display: flex;
+  flex-direction: row;
+  font-size: small;
+}
+input {
+  width: 90%;
+}
+section {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  border: solid 1px;
+  background-color: lightgrey;
+}
+footer {
+  bottom: 0;
+}

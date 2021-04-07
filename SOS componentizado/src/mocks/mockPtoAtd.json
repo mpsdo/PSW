@@ -1,0 +1,20 @@
+{
+  "PontosAtendimento": [
+    {
+      "id": 0,
+      "nome": "Hospital Quinta Dor",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro",
+      "bairro": "São Cristóvão",
+      "endereco": "end"
+    },
+    {
+      "id": 1,
+      "nome": "Hospital São Vicente de Paulo",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro",
+      "bairro": "Tijuca",
+      "endereco": "end"
+    }
+  ]
+}

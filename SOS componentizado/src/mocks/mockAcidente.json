@@ -1,0 +1,20 @@
+{
+  "Acidentes": [
+    {
+      "id": 0,
+      "data": "",
+      "descricao": "",
+      "estado": "",
+      "cidade": "",
+      "bairro": ""
+    },
+    {
+      "id": 1,
+      "data": "",
+      "descricao": "",
+      "estado": "",
+      "cidade": "",
+      "bairro": ""
+    }
+  ]
+}

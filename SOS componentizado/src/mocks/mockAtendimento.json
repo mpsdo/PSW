@@ -1,0 +1,12 @@
+{
+  "Atendimentos": [
+    {
+      "id": 0,
+      "data": "now",
+      "ptoAtend": "Hospital Quinta Dor",
+      "sintomas": [],
+      "profissionais": [{ "nome": "Dr./Dra. Médico(a)" }],
+      "medicamentos": [{ "nome": "Novalgina", "descricao": "1 comprimido por dia" }]
+    }
+  ]
+}

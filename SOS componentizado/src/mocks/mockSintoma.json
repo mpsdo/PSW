@@ -1,0 +1,16 @@
+{
+  "Sintomas": [
+    {
+      "id": 0,
+      "data": "datetime",
+      "nome": "febre",
+      "descricao": "temperatura de 40 graus e dor de cabeça forte"
+    },
+    {
+      "id": 1,
+      "data": "datetime",
+      "nome": "queimadura",
+      "descricao": "parte do corpo: braço"
+    }
+  ]
+}
